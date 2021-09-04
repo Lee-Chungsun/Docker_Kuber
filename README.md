@@ -7,3 +7,5 @@
     - vmware : VMware Workstation 16 Player
     - ubuntu : ubuntu-18.04.5-live-server-amd64.iso
  - [X] image와 Dockerfile 실습 [정리](https://dev-chung.tistory.com/42)
+
+* GCP 빌드 테스트 커밋
