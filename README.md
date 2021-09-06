@@ -9,3 +9,4 @@
  - [X] image와 Dockerfile 실습 [정리](https://dev-chung.tistory.com/42)
 
 * GCP 빌드 테스트 커밋
+ - [x] 도커 레지스트리
