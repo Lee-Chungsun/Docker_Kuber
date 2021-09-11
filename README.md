@@ -10,4 +10,5 @@
 
 * GCP 빌드 테스트 커밋
  - [x] 도커 레지스트리
+   -> [실습](https://github.com/Lee-Chungsun/portfolio)
  - [ ] 도커 네트워크 / 볼륨
