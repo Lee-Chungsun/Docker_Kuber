@@ -12,3 +12,4 @@
  - [x] 도커 레지스트리
    -> [실습](https://github.com/Lee-Chungsun/portfolio)
  - [ ] 도커 네트워크 / 볼륨
+ - [ ] 도커 컴포즈
